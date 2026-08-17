@@ -1,0 +1,6 @@
+{
+  "name": "Composio App Research & Toolkit Intelligence",
+  "description": "Comprehensive 100-app API research, auth patterns analysis, agent automation pipeline, and accuracy verification for Composio AI Product Ops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
